@@ -1,8 +1,6 @@
 #Calculator in Python 
 print ("What operation do you want to perform: ")
-
 operator = input("Please enter either +, _, *, / :")
-
 n1 =  float(input("Enter first Number: "))
 n2 = float(input ("Enter second Number: "))
 if operator == "+":
