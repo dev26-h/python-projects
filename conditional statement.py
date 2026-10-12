@@ -1,4 +1,5 @@
 # using conditional statements.
+
 light = input("ligt:")
 if (light == "red"):
     print ('stop')
