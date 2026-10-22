@@ -1,2 +1,6 @@
-# python-practice-projects. 
-My basic Python practice programs and scripts.
+# python-practice-projects.
+
+**My basic Python practice programs and scripts.**
+
+```Python
+print("Hello World! ")
