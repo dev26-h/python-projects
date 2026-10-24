@@ -1,4 +1,5 @@
 # using conditional statements.
+
 light = input("ligt:")
 if (light == "red"):
     print ('stop')
@@ -9,5 +10,5 @@ elif (light == "green"):
 else:
     print ("light is broken")
 else: 
-    print("There is no signal Here")
+    print("There is no signal here")
 
