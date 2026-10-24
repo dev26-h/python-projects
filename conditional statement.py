@@ -10,5 +10,5 @@ elif (light == "green"):
 else:
     print ("light is broken")
 else: 
-    print("There is no signal Here")
+    print("There is no signal here")
 
